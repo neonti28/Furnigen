@@ -61,8 +61,6 @@ npm install
 npm run dev
 ```
 
-The app runs on http://localhost:3000.
-
 ### With / without an API key
 
 - **No key** → the app uses a built-in offline generator so every screen
